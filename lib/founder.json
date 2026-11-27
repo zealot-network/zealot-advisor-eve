@@ -1,0 +1,50 @@
+{
+  "source": "Zealot's founder, for questions about Brett himself. Every fact here is public on the site or approved by Brett on 2026-11-22 and 2026-11-23. This is not part of the Lovable export. lib/knowledge.ts returns the entry only for a question about Brett (isFounderQuery). The views are his faith, politics, and view of Israel, in his own words. They are not knowledge entries, so search_knowledge can never return one. The founder_view tool returns the one asked.",
+  "count": 1,
+  "entries": [
+    {
+      "id": "99a4b06a-a5d1-4f71-8b5b-5e9d499934b7",
+      "title": "Brett Henry, Founder and Principal",
+      "description": "Brett Henry is the founder and principal of Zealot. He is a systems builder, connector, and entrepreneur, a seventh-generation Tennessean based in Middle Tennessee. Over the past decade he has launched, scaled, or advised ventures across coffee, real estate, construction, consumer products, AI systems, blockchain, and emerging tech. He earned a B.S. in Biology at Lipscomb University (2007 to 2011) after Franklin High School. Early on he worked in coffee in Kona, Hawaii, where he learned to roast (2012 to 2013), recruited for Birthright Israel trips with Yael Adventures (2013 to 2016), and coached 5th grade boys basketball at Battle Ground Academy in Franklin (2013 to 2014). Brett co-founded Honest Coffee Roasters in 2014 and founded The Franklin Juice Company in 2013. In 2016 he acquired Juice Nashville. He co-founded DECO, one of Tennessee's first DAO LLCs. With DECO's crypto committee, he advised the Tennessee Governor's office on crypto, on drawing high-tech talent to Nashville, and on the DAO legislation then moving through the state legislature. They wrote a full rewrite of that bill. Their version did not pass. He has been traveling to Israel since 2012. He named Zealot from Scripture. In his words, a Zealot is someone passionately devoted to what is good, in thought, in character, and in action. The company's motto is Foster Friendship. Outside work he spends time with his family, coaches sports, studies Scripture, and travels to Israel. People reach Brett through the contact form.",
+      "topics": [
+        "founder",
+        "Brett Henry",
+        "background",
+        "education",
+        "Tennessee"
+      ],
+      "expertise_areas": [
+        "founder",
+        "leadership"
+      ],
+      "related_projects": [
+        "Honest Coffee Roasters",
+        "The Franklin Juice Company",
+        "Juice Nashville",
+        "DECO"
+      ],
+      "key_entities": [
+        "Brett Henry"
+      ],
+      "display_priority": 100,
+      "updated_at": "2026-11-22 00:00:00+00"
+    }
+  ],
+  "views": [
+    {
+      "subject": "faith",
+      "title": "Brett Henry: faith",
+      "description": "Brett holds a Judeo-Christian worldview."
+    },
+    {
+      "subject": "politics",
+      "title": "Brett Henry: politics",
+      "description": "Brett is a staunch Republican and politically conservative, who has strong alignment with the MAGA and MAHA movements."
+    },
+    {
+      "subject": "israel",
+      "title": "Brett Henry: Israel",
+      "description": "Brett is pro-Israel, a Christian Zionist. He has been traveling to Israel since 2012."
+    }
+  ]
+}
