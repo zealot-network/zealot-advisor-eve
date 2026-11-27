@@ -1,0 +1,83 @@
+{
+  "source": "Published Zealot site copy. These entries are not part of the Lovable export.",
+  "count": 7,
+  "entries": [
+    {
+      "id": "a1c0e001-4b21-4a6e-9c11-000000000001",
+      "title": "Entrust Investments",
+      "description": "Strategic advisory and systems architecture for a real estate investment firm focused on disciplined capital deployment and scalable operations.",
+      "topics": ["Entrust Investments", "investment", "real estate"],
+      "expertise_areas": ["strategic advisory", "systems architecture"],
+      "related_projects": [],
+      "key_entities": ["Entrust Investments"],
+      "display_priority": 100,
+      "updated_at": "2026-11-01 00:00:00+00"
+    },
+    {
+      "id": "a1c0e001-4b21-4a6e-9c11-000000000002",
+      "title": "Abel Construction",
+      "description": "Operational systems and growth strategy for a construction firm building across Tennessee.",
+      "topics": ["Abel Construction", "construction", "Tennessee"],
+      "expertise_areas": ["operational systems", "growth strategy"],
+      "related_projects": [],
+      "key_entities": ["Abel Construction"],
+      "display_priority": 100,
+      "updated_at": "2026-11-01 00:00:00+00"
+    },
+    {
+      "id": "a1c0e001-4b21-4a6e-9c11-000000000003",
+      "title": "Wheaton College: Jewish-Christian Relations Initiative",
+      "description": "Strategic communications and partnership infrastructure for Wheaton College's initiative bridging Jewish and Christian scholarship and relationships.",
+      "topics": ["Wheaton College", "education", "nonprofit"],
+      "expertise_areas": ["strategic communications", "partnership infrastructure"],
+      "related_projects": [],
+      "key_entities": ["Wheaton College", "Jewish-Christian Relations Initiative"],
+      "display_priority": 100,
+      "updated_at": "2026-11-01 00:00:00+00"
+    },
+    {
+      "id": "a1c0e001-4b21-4a6e-9c11-000000000004",
+      "title": "MealFame.com",
+      "description": "A technology platform at the intersection of food, community, and digital systems. https://www.mealfame.com",
+      "topics": ["MealFame", "technology", "food"],
+      "expertise_areas": ["technology platform"],
+      "related_projects": [],
+      "key_entities": ["MealFame.com"],
+      "display_priority": 100,
+      "updated_at": "2026-11-01 00:00:00+00"
+    },
+    {
+      "id": "a1c0e001-4b21-4a6e-9c11-000000000005",
+      "title": "Frame Spotter",
+      "description": "Frame Spotter finds well-made frames and lenses, vintage and modern, at thrift-store prices. It watches ShopGoodwill and EBTH twice a day for brands Brett picks. https://www.framespotter.xyz",
+      "topics": ["Frame Spotter", "technology", "eyewear"],
+      "expertise_areas": ["technology platform"],
+      "related_projects": [],
+      "key_entities": ["Frame Spotter"],
+      "display_priority": 100,
+      "updated_at": "2026-11-18 00:00:00+00"
+    },
+    {
+      "id": "a1c0e001-4b21-4a6e-9c11-000000000007",
+      "title": "Cardboard Spaceship",
+      "description": "For Cardboard Spaceship, a full-service video production company, Zealot built a fully custom dev environment, a marketing dashboard, custom agents, automated workflows, and much more. https://cardboard-spaceship.com",
+      "topics": ["Cardboard Spaceship"],
+      "expertise_areas": ["dev environment", "marketing dashboard", "custom agents", "automated workflows"],
+      "related_projects": [],
+      "key_entities": ["Cardboard Spaceship"],
+      "display_priority": 100,
+      "updated_at": "2026-11-18 00:00:00+00"
+    },
+    {
+      "id": "a1c0e001-4b21-4a6e-9c11-000000000006",
+      "title": "Avonel Health",
+      "description": "Avonel Health is a telehealth company for compounded ivermectin. A physician reviews each request, and a 503A-licensed pharmacy compounds and ships what's prescribed. Zealot is building Nell, Avonel's customer support agent. It takes extensive evals and security work to meet HIPAA business associate agreements, zero data retention, and trust center controls near SOC 2 level. https://avonelhealth.com",
+      "topics": ["Nell", "telehealth", "HIPAA"],
+      "expertise_areas": ["evals"],
+      "related_projects": [],
+      "key_entities": ["Avonel Health", "Nell"],
+      "display_priority": 100,
+      "updated_at": "2026-11-18 00:00:00+00"
+    }
+  ]
+}
